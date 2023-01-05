@@ -172,3 +172,7 @@ font-size: 35px;
 
 
     /* resume styles */
+
+    .resume-content{
+        display: flex;
+    }
